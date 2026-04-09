@@ -13,6 +13,7 @@ An intelligent cover letter generator that uses LLM agents, semantic search, and
   - **Creative**: Engaging narrative, shows personality while remaining professional
   - **Technical**: Detailed technical expertise, specific technologies and projects
 - **Interactive Refinement**: Chat interface to refine and improve generated letters
+- **Factually Grounded**: All generated content is based strictly on information from your CV—no invented details or assumptions
 - **Powered by LangGraph**: Uses ReAct agents for intelligent, tool-based generation
 
 ## Architecture
@@ -196,6 +197,8 @@ LangChain/
 - Review skill match analysis to understand gaps
 - Use the search_cv tool results to guide emphasis
 - Iterate 2-3 times for best results
+- All generated content is based strictly on your CV—refinement requests will enhance how your real achievements are presented, not invent new ones
+- The system will ignore requests to add information not in your CV
 
 ## Cost Estimation
 
@@ -229,8 +232,9 @@ Interactive refinement adds ~$0.01-0.02 per exchange.
 ### Generated Letter Quality Issues
 - Try different tones - technical roles benefit from technical tone
 - Use interactive refinement to guide the agent
-- Provide more structured CV sections
+- Provide more structured CV sections with clear achievements and metrics
 - Ensure job description has clear requirements
+- Note: Quality depends on content in your CV. Include specific achievements, metrics, and details in your CV for better letter generation
 
 ## Future Enhancements
 
