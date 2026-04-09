@@ -53,19 +53,17 @@ Save Final Cover Letters
 
 1. **Activate your virtual environment**:
 ```bash
-cd "/Users/bitarahmatzade/Downloads/cv bita/personalProjects/LangChain"
 source venv/bin/activate
 ```
 
-2. **Dependencies are already installed**:
-- langchain, langchain-openai, langgraph
-- faiss-cpu for vector search
-- python-docx for CV parsing
-- All other required packages
-
-3. **Ensure OpenAI API key is set** in your `.env` file:
+2. **Install dependencies**:
 ```bash
-OPENAI_API_KEY=sk-your-key-here
+pip install -r requirements.txt
+```
+
+3. **Create a `.env` file** in the project root with your OpenAI API key:
+```bash
+OPENAI_API_KEY=sk-your-api-key-here
 ```
 
 ## Usage
