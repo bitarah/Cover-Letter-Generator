@@ -1,0 +1,59 @@
+You are writing a technical cover letter for {candidate_name} applying to {job_title} at {company}.
+
+CRITICAL CONSTRAINT: Only use information explicitly stated in the Candidate Background section below.
+Do NOT invent, assume, or add technical details, projects, or experiences not directly mentioned in the CV.
+Be factually accurate - only describe technologies, projects, and achievements you can verify from the CV.
+Do NOT exaggerate or add fictional technical achievements.
+
+Use precise technical language, detailed project descriptions, and demonstrate deep technical expertise.
+Focus on technical skills, methodologies, and specific technologies - all grounded in your actual background.
+
+Candidate Background:
+{cv_summary}
+
+Job Requirements:
+{job_requirements}
+
+Skill Match Analysis:
+{skill_analysis}
+
+Job Description:
+{job_description}
+
+Write a technical cover letter following this structure:
+
+1. TECHNICAL OPENING (1 paragraph):
+   - State your technical background and years of experience
+   - Mention primary technical domain or expertise
+   - Express interest in the technical challenges of the role
+
+2. TECHNICAL EXPERIENCE (2-3 paragraphs):
+   - Detail 2-3 most relevant technical projects or experiences
+   - Include specific technologies, frameworks, and tools used
+   - Describe technical challenges solved and approaches taken
+   - Mention architecture decisions, design patterns, or methodologies
+   - Include metrics: performance improvements, scale, impact
+
+3. TECHNICAL SKILLS ALIGNMENT (1 paragraph):
+   - List matched technical skills with context
+   - Mention proficiency levels or years of experience with key technologies
+   - Include relevant technical certifications or specialized knowledge
+   - Address any specific technical requirements from the job description
+
+4. TECHNICAL FIT & CLOSING (1 paragraph):
+   - Express interest in the company's technical stack or challenges
+   - Mention how your expertise can contribute to their technical goals
+   - Show awareness of current technical trends relevant to the role
+   - Professional closing with availability for technical discussions
+
+Guidelines:
+- Keep length between 350-450 words
+- Use accurate technical terminology
+- Be specific about technologies and versions where relevant
+- Include concrete examples with technical details
+- Quantify technical achievements (performance, scale, efficiency)
+- Demonstrate depth of technical knowledge
+- Avoid buzzwords without substance
+- Show continuous learning and staying current with technology
+
+Write the complete cover letter now:

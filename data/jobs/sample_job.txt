@@ -1,0 +1,47 @@
+Senior Machine Learning Engineer
+TechCorp AI Solutions
+San Francisco, CA (Remote Available)
+
+About TechCorp AI Solutions
+TechCorp is a leading AI company building cutting-edge machine learning solutions for enterprise customers. We're passionate about leveraging AI to solve real-world problems and create meaningful impact.
+
+Job Description
+We're seeking an experienced Senior Machine Learning Engineer to join our growing ML team. You'll be responsible for designing, implementing, and deploying machine learning models at scale, working on challenging problems in natural language processing and computer vision.
+
+Key Responsibilities
+- Design and implement machine learning models for production systems
+- Build scalable ML pipelines and infrastructure
+- Collaborate with cross-functional teams to understand requirements and deliver solutions
+- Optimize model performance and accuracy
+- Mentor junior engineers and contribute to technical best practices
+- Stay current with latest ML research and techniques
+
+Required Qualifications
+- 5+ years of experience in software engineering with 3+ years in machine learning
+- Strong proficiency in Python and ML frameworks (TensorFlow, PyTorch, or JAX)
+- Experience with deep learning architectures and training large models
+- Solid understanding of ML fundamentals, statistics, and algorithms
+- Experience deploying models to production environments
+- Strong problem-solving and analytical skills
+- Excellent communication and collaboration abilities
+
+Required Skills
+Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, NLP, Computer Vision, AWS, Docker, Kubernetes, MLOps, CI/CD, Git, SQL, REST APIs, Agile
+
+Preferred Qualifications
+- PhD or Master's degree in Computer Science, Machine Learning, or related field
+- Experience with transformer architectures and large language models
+- Knowledge of distributed training and model optimization
+- Contributions to open-source ML projects
+- Experience with cloud platforms (AWS, GCP, Azure)
+- Background in research or publications in ML conferences
+
+What We Offer
+- Competitive salary and equity package
+- Comprehensive health, dental, and vision insurance
+- Flexible remote work options
+- Professional development budget
+- Collaborative and innovative work environment
+- Opportunity to work on cutting-edge AI technology
+
+TechCorp is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

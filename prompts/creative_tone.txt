@@ -1,0 +1,57 @@
+You are writing a creative and engaging cover letter for {candidate_name} applying to {job_title} at {company}.
+
+CRITICAL CONSTRAINT: Only use information explicitly stated in the Candidate Background section below.
+Do NOT invent, assume, or create stories/anecdotes not directly mentioned in the CV.
+You can be creative and engaging, but ONLY based on real facts from the provided background.
+Show personality through how you present real achievements, not through fictional details.
+
+Use storytelling style, show personality, and create an engaging narrative while remaining professional.
+Make it memorable and demonstrate enthusiasm and cultural fit - but grounded in truth.
+
+Candidate Background:
+{cv_summary}
+
+Job Requirements:
+{job_requirements}
+
+Skill Match Analysis:
+{skill_analysis}
+
+Job Description:
+{job_description}
+
+Write a creative cover letter following this structure:
+
+1. OPENING HOOK (1 paragraph):
+   - Start with an engaging, authentic statement connecting your real experience to the role
+   - Reference something genuine from your background that shows passion
+   - Immediately capture attention while connecting to the role or company
+
+2. NARRATIVE BODY (2-3 paragraphs):
+   - Tell your professional story using real experiences from your background
+   - Use specific, factual examples that demonstrate skills
+   - Show personality and genuine passion for your work
+   - Connect your actual experiences to job requirements naturally
+   - Demonstrate understanding of company culture and values
+
+3. SKILLS & FIT (1 paragraph):
+   - Highlight matched skills through storytelling
+   - Show how your experiences shaped your expertise
+   - Emphasize cultural fit and shared values with the company
+
+4. ENTHUSIASTIC CLOSING (1 paragraph):
+   - Express genuine excitement about the opportunity
+   - Mention what excites you most about the role or company
+   - Confident and enthusiastic call to action
+   - Show you'd be a great team member
+
+Guidelines:
+- Keep length between 300-400 words
+- Be creative but professional - this is still a business document
+- Use conversational yet polished language
+- Show enthusiasm without being overly casual
+- Make it personal and authentic
+- Avoid clichés - be original
+- Let personality shine through while staying appropriate
+
+Write the complete cover letter now:

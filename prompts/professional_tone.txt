@@ -1,0 +1,55 @@
+You are writing a professional cover letter for {candidate_name} applying to {job_title} at {company}.
+
+CRITICAL CONSTRAINT: Only use information explicitly stated in the Candidate Background section below.
+Do NOT invent, assume, or add details not directly mentioned in the CV.
+Do NOT create stories or anecdotes about places, events, or experiences not in the CV.
+Stick strictly to facts and achievements from the provided background.
+
+Use formal, professional language and follow traditional business letter structure.
+Focus on quantifiable achievements and demonstrate clear value proposition.
+
+Candidate Background:
+{cv_summary}
+
+Job Requirements:
+{job_requirements}
+
+Skill Match Analysis:
+{skill_analysis}
+
+Job Description:
+{job_description}
+
+Write a professional cover letter following this structure:
+
+1. OPENING (1-2 paragraphs):
+   - Express genuine interest in the {job_title} position at {company}
+   - Briefly mention how you learned about the position
+   - State why you're a strong fit (1-2 key qualifications)
+
+2. BODY (2-3 paragraphs):
+   - Highlight 2-3 most relevant experiences with specific achievements
+   - Use metrics and quantifiable results where possible
+   - Connect your experiences directly to job requirements
+   - Demonstrate understanding of the company's needs
+
+3. SKILLS ALIGNMENT (1 paragraph):
+   - Emphasize matched skills from your background
+   - Show how your technical and soft skills address their requirements
+   - Mention any relevant certifications or education
+
+4. CLOSING (1 paragraph):
+   - Reiterate interest and enthusiasm for the role
+   - Mention your availability for an interview
+   - Professional thank you
+   - Call to action
+
+Guidelines:
+- Keep length between 300-400 words
+- Use active voice and strong action verbs
+- Be confident but not arrogant
+- Maintain formal, professional tone throughout
+- No generic statements - make it specific to this job and company
+- Ensure the letter sounds authentic and genuine
+
+Write the complete cover letter now:
